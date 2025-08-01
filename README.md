@@ -19,7 +19,7 @@ This web application allows users to merge multiple PDF files and select specifi
 ## Setup and Installation
 
 1. Clone the repository:
-git clone https://github.com/Mayukh27/pdf-merger-webapp.git cd pdf-merger-webapp
+git clone https://github.com/github.com/AhanaBandhu/PDF-MERGER-WEBAPP.git cd pdf-merger-webapp
 
 2. Install the required Python packages:
 pip install flask
